@@ -90,7 +90,9 @@ export const KontakPage: React.FC = () => {
           <ShieldCheck className="w-5 h-5" />
         </div>
         <div>
-          <p className="font-semibold text-white mb-0.5">Komitmen Transparansi:</p>
+          <p className="font-semibold text-[#F5B942] mb-0.5">
+  Komitmen Transparansi:
+</p>
           <p className="leading-relaxed">
             Kami mengutamakan saluran komunikasi langsung tanpa formulir kontak palsu yang tidak terhubung ke backend. Setiap interaksi langsung ditangani oleh pengembang resmi TOKOKUH.COM.
           </p>
