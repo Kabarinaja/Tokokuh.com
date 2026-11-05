@@ -1,0 +1,6 @@
+{
+  "name": "TOKOKUH.COM – Aplikasi Kasir Android Offline UMKM",
+  "description": "Website resmi TOKOKUH.COM, aplikasi kasir Android praktis yang dapat digunakan tanpa koneksi internet untuk mengelola transaksi, produk, dan laporan penjualan UMKM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
